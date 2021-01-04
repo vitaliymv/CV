@@ -10,6 +10,7 @@
 }
 
 .header {
+	margin-top: 10px;
 	height: 5%;
 	width: 100%;
 	background-color: rgba(46, 117 ,183, 0.6);
@@ -74,4 +75,17 @@ img {
 
 li i {
 	color: orange;
+}
+
+li {
+	padding: 5px;
+}
+
+table {
+	width: 100%;
+}
+
+a {
+	text-align: left;
+
 }
