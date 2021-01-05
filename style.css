@@ -64,8 +64,13 @@ img {
 	padding: 10px;
 	background: #fcf4dc;
 	border: 1px solid silver;
+	transition: 0.2s;
 }
 
+.card:hover .card-header {
+	background: #e7fa6e;
+	transition: 0.2s;
+}
 .card-body {
 	border: 1px solid silver;
 	padding: 20px;
